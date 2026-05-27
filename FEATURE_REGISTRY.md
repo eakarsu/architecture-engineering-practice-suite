@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Floor Plan Analyzer
+
+- Floor Plan Review
+- Space Utilization
+- Code Layout Issues
+
+## Focused enhancement: Floor Plan Analyzer
+
+Source evidence: AIFloorPlanAnalyzer.

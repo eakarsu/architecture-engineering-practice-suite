@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/code-layout-issues`
+- `/space-utilization`
+- `/floor-plan-review`
 - `/records`
 - `/workspaces`
 - `/requests`
